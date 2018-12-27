@@ -1,6 +1,5 @@
 import NIOKit
 import XCTest
-import class Foundation.Bundle
 
 final class tempTests: NIOKitTestCase {
 	func testExample() {
